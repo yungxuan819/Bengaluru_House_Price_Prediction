@@ -88,9 +88,3 @@ jupyter notebook Bengaluru_House_Price_Prediction.ipynb
 | matplotlib / seaborn | Data visualizations |
 | scikit-learn | ML models & evaluation |
 | Jupyter Notebook | Development environment |
-
----
-
-## 🙋 Author
-
-**yungxuan819** — feel free to open an issue with any questions or feedback!
